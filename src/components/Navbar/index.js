@@ -8,7 +8,7 @@ function Navbar(props) {
         <a className="navbar-brand" href="#">Clicky Game</a>
         </div>
         <div className ="col-4 navbar-brand">
-         {props.message}
+         {props.text}
         </div>
         <div className ="col-4 navbar-brand">
           Score: {props.score}

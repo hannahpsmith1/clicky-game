@@ -1,3 +1,8 @@
-import React from 'react';
-import Nav from './components/Navbar';
-import Wrapper from './components/Wrapper';
+import React from "react";
+import Game from "./components/Game";
+
+function App() {
+  return <Game />;
+}
+
+export default App;

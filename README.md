@@ -1,10 +1,10 @@
-# password-generator
+# Clicky-game
 
 Creating a simple memory game with 12 images from Harry Potter 
 
 
 ## Deployed Link
-[Live Link](https://hannahpsmith1.github.io/password-generator/)
+[Live Link](https://hannahpsmith1.github.io/clicky-game/)
 
 
 ### Final Product (9/3/2020)
@@ -85,7 +85,4 @@ Within terminal there are several shortcuts you can take to auto-fill values whi
 
 
 ## Sources:
-1. My Tutor Christopher Sanner was very helpful in explaining adding to an empty array. 
-2. [Stack Overflow](https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working) This thread was really helpful for me with explaining what isNaN is and how it was necessary for the execution of the validations. 
-3. [isNaN] (https://www.w3schools.com/jsref/jsref_isnan.asp)  This was also a really helpfu for how to use is NaN  for validation in the password generator.  
-4. [w3 schools](https://www.w3schools.com/) This site was my go to when poking around the internet to find things like semantic HTML
+1. Jerome who spent a few hours with me and helped me get this most of the way done (on a non git tracked repo called farleyclick). 
